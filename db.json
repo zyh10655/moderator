@@ -1,0 +1,142 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "Most common mistakes in test-driven development practice:Results from an online survey with developers",
+      "date": "2019-05-30T17:30:31.098Z",
+      "accept": true
+    },
+    {
+      "id": 2,
+      "content": "Does Test-Driven Development Really Improve Software Design Quality?",
+      "date": "2019-05-30T18:39:34.091Z",
+      "accept": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "date": "2019-05-30T19:20:14.298Z",
+      "accept": true
+    },
+    {
+      "content": "A prototype empirical evaluation of test driven development - Software Metrics, 2004. Proceedings. 10th International Symposium on",
+      "date": "2020-10-07T06:15:09.092Z",
+      "accept": false,
+      "id": 5
+    },
+    {
+      "content": "An Empirical Assessment on Affective Reactions of Novice Developers when Applying Test-Driven Development",
+      "date": "2020-10-07T06:15:18.892Z",
+      "accept": true,
+      "id": 6
+    },
+    {
+      "content": "Evaluating Test-Driven Development in an Industry-Sponsored Capstone Project",
+      "date": "2020-10-07T06:15:26.244Z",
+      "accept": false,
+      "id": 7
+    },
+    {
+      "content": "A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage",
+      "date": "2020-10-07T06:15:32.332Z",
+      "accept": true,
+      "id": 8
+    },
+    {
+      "content": "Results from a replicated experiment on the affective reactions of novice developers when applying test-driven development",
+      "date": "2020-10-07T06:15:39.084Z",
+      "accept": false,
+      "id": 9
+    },
+    {
+      "content": "On the Influence of Test-Driven Development on Software Design",
+      "date": "2020-10-07T06:17:08.708Z",
+      "accept": false,
+      "id": 10
+    },
+    {
+      "content": "A Leveled Examination of Test-Driven Development Acceptance",
+      "date": "2020-10-07T06:17:14.020Z",
+      "accept": false,
+      "id": 11
+    },
+    {
+      "content": "Evaluating the Efficacy of Test-Driven Development: Industrial Case Studies",
+      "date": "2020-10-07T06:17:19.668Z",
+      "accept": false,
+      "id": 12
+    },
+    {
+      "content": "LNCS 4034 - Productivity of Test Driven Development: A Controlled Experiment with Professionals",
+      "date": "2020-10-07T06:17:25.412Z",
+      "accept": true,
+      "id": 13
+    },
+    {
+      "content": "Implications of Test-Driven Development A Pilot Study",
+      "date": "2020-10-07T06:17:28.372Z",
+      "accept": true,
+      "id": 14
+    },
+    {
+      "content": "Test-driven development as a defect-reduction practice - Software Reliability Engineering, 2003. ISSRE 2003. 14th International Symposium on",
+      "date": "2020-10-07T06:27:49.691Z",
+      "accept": false,
+      "id": 15
+    },
+    {
+      "content": "An Empirical Study of Test-Driven Development vs. Test-Last Development Using Eye Tracking",
+      "date": "2020-10-07T06:27:54.955Z",
+      "accept": true,
+      "id": 16
+    },
+    {
+      "content": "On the effectiveness of unit tests in test-driven development",
+      "date": "2020-10-07T06:27:59.451Z",
+      "accept": false,
+      "id": 17
+    },
+    {
+      "content": "Comparing technical debt in student exercises using test driven development, test last and ad hoc programming",
+      "date": "2020-10-07T06:28:04.299Z",
+      "accept": true,
+      "id": 18
+    },
+    {
+      "content": "Assessing test-driven development at IBM - IEEE Conference Publication",
+      "date": "2020-10-07T06:28:09.732Z",
+      "accept": false,
+      "id": 19
+    },
+    {
+      "content": "An experimental evaluation of test driven development vs. test-last development with industry professionals",
+      "date": "2020-10-07T06:28:17.315Z",
+      "accept": true,
+      "id": 20
+    },
+    {
+      "content": "Test-driven development as a defect-reduction practice",
+      "date": "2020-10-07T06:28:22.811Z",
+      "accept": false,
+      "id": 21
+    },
+    {
+      "content": "Does test-driven development really improve software design quality？",
+      "date": "2020-10-07T06:28:30.308Z",
+      "accept": false,
+      "id": 22
+    },
+    {
+      "content": "Realizing quality improvement through test driven development: results and experiences of four industrial teams",
+      "date": "2020-10-07T06:28:35.293Z",
+      "accept": false,
+      "id": 23
+    },
+    {
+      "content": "A prototype empirical evaluation of test driven development",
+      "date": "2020-10-07T06:28:40.684Z",
+      "accept": true,
+      "id": 24
+    }
+  ]
+}
